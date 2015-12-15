@@ -2,17 +2,6 @@ UNITY3D
 
 2D GAME
 
-Objetivo: Aguantar el mayor tiempo posible.
-
-Desarrollo
-	- Enemigos encuentran al jugador FindWithTag
-	- Enemigos y sus balas son instanciados en otro layer
-	- Limitaciones de ángulos diferentes para Jugador y Enemigos
-	- Encuentra el ángulo con Mathf.Atan2 y rota con RotateTowards
-	- Calcula tamaño pantalla Camera.main.orthographicSize y corrige los bordes con el ratio de pantalla y la 		  	distancia que deseemos.
-
-_____________________________________
-
 Objective: Hold as long as possible.
 
 Development
